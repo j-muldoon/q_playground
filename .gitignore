@@ -1,13 +1,13 @@
 venv/
 
 # Jupyter Notebook checkpoints (don't have a notebook yet but I saw there is a Jupyter q integration thing that could be useful for what I am trying to do)
-.ipynb_checkpoints
+*.ipynb_checkpoints
 
 # VS Code settings
-.vscode/
+*.vscode/
 
 # macOS files
-.DS_Store
+*.DS_Store
 
 # Logs
 *.log
